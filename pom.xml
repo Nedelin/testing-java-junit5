@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>guru.springframework</groupId>
-    <artifactId>testing-java-junit5</artifactId>
+    <artifactId>testing-java-junit5-ci</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>testing-java-junit5</name>
-    <description>Testing Java with JUnit 5</description>
+    <name>testing-java-junit5-ci</name>
+    <description>Testing Java with JUnit 5 CI</description>
 
     <organization>
         <name>Spring Framework Guru</name>
@@ -137,5 +137,4 @@
             </plugin>
         </plugins>
     </reporting>
-
 </project>
